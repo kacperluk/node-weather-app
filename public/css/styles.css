@@ -54,3 +54,8 @@ a:hover {
     background-color: cadetblue;
     color: black;
 }
+
+#message-1 ,#message-2 {
+    font-weight: bold;
+    font-size: 16px;
+}
